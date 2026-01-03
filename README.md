@@ -57,6 +57,14 @@ Primary outputs are in `results/activation_patching/`.
 
 This code assumes a local GPU and `transformer_lens` installed. Scripts write to `results/activation_patching/` relative to the repository root. Run scripts from the repository root to keep outputs in the expected location.
 
+## Requirements
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## License
 
 No license specified. Treat as research code intended for reference.
