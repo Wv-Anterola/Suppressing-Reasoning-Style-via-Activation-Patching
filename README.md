@@ -22,7 +22,7 @@ This repository contains the code, results, and figures from a study of reasonin
 
 ## Key Scripts
 
-- `code/setup_option_b.py` — model setup and baseline vs reasoning validation
+- `code/setup_validation.py` — model setup and baseline vs reasoning validation
 - `code/layer_level_patching.py` — layer sweep for causal suppression
 - `code/head_level_analysis.py` — head‑level analysis
 - `code/measure_quality_v8_long_prompt.py` — main v8 intervention run
