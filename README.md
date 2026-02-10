@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code, results, and figures for a study of reasoning-style suppression in Qwen/Qwen2.5-1.5B-Instruct using activation patching. The core test patches direct-answer activations into step-by-step prompts to reduce verbose reasoning while preserving correctness. Writeups and application materials are intentionally excluded.
+This repository contains code, results, and figures for a study of reasoning-style suppression in Qwen/Qwen2.5-1.5B-Instruct using activation patching. The core test patches direct-answer activations into step-by-step prompts to reduce verbose reasoning while preserving correctness. 
 
 ## Key Findings (from included results)
 
